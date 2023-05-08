@@ -37,6 +37,10 @@
   color: #ffffff; 
   opacity: 60%;
   max-width: 460px;
+  @media (max-width: 350px) { 
+      
+    max-width: 300px;
+   }
  
 }
 .links{
