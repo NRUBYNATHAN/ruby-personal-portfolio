@@ -35,7 +35,7 @@ function About() {
            className="about_text">
             <h2 className="about1">About Me.</h2>
             <h3 className="about2">Hello! I’m <span className="about3">RUBYNATHAN</span>. </h3>
-             <h3> Full Stack Developer from tamilnadu,india.</h3>
+             <h3> Full Stack Developer from Tamilnadu,India.</h3>
             <p> I completed My Full Stack Journy In GUVI institution. I have rich experience in React and JavaScript, also I am good at  Git and Rest API's.</p>
             <p> I like to develop solutions that meet high quality metrics in terms of performance, accessibility and good practices. </p>
             <p>I am looking for job opportunities to grow professionally with an innovation team to provide solutions to different problems.</p>

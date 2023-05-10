@@ -69,7 +69,7 @@ function Banner() {
                     <button className="headers_btn">Contact me</button>
                     </Link>
            
-                <a  className="banner_btn" href="https://ruby-resume.tiiny.site/" target="_blank" >My Resume </a>
+                <a  className="banner_btn" href="https://drive.google.com/file/d/1PEmrBRRKQNsVvHF7tl6rEdQJx3sse60F/view?usp=share_link" target="_blank" >My Resume </a>
                </motion.div>
                 <motion.div
                    variants={fadeIn("up",0.7)}
