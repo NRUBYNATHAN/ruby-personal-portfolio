@@ -31,6 +31,12 @@ function Project() {
           <a href="https://amazing-crisp-107f5d.netlify.app/" target="_blank" className="card_btn" ><OpenInNewIcon/></a>
           <a href="https://github.com/NRUBYNATHAN/ruby-googly-clone"  target="_blank" className="card_btn1" ><GitHubIcon /></a>
           </div>
+          <div className="tech_stack">
+          <h3 className="tech_title">Tech_Stack : </h3>
+            <img className="tech_stack_img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=""/>
+            
+          </div>
+     
        </div>
        </div>
 
@@ -40,10 +46,18 @@ function Project() {
           <h1 className="card_title">Recipe-Mangement</h1>
           <p className="card_info">I created this recipe management programme for the Guvi Hackathon. I also create the front end and back end of this app. To manage in these kitchen recipes is really helpful. With its extensive use for partners who non welknon cooks
 </p>
-          <div className="btn">
+<div className="btn">
           <a href="https://recipes-frontend.netlify.app/" target="_blank" className="card_btn" ><OpenInNewIcon/></a>
           <a href="https://github.com/NRUBYNATHAN/kitchen-recipe-frontend"  target="_blank" className="card_btn1" ><GitHubIcon /></a>
           </div>
+<div className="tech_stack">
+          <h3 className="tech_title">Tech_Stack : </h3>
+            <img className="tech_stack_img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=""/>
+            <img className="tech_stack_img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt=""/>
+            <img className="tech_stack_img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt=""/>
+            <img className="tech_stack_img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt=""/>
+          </div>
+     
        </div>
        </div>
 
@@ -56,6 +70,12 @@ function Project() {
           <a href="https://ruby-clone-app.netlify.app/" target="_blank" className="card_btn" ><OpenInNewIcon/></a>
           <a href="https://github.com/NRUBYNATHAN/amazon-clone"  target="_blank" className="card_btn1" ><GitHubIcon /></a>
           </div>
+          <div className="tech_stack">
+          <h3 className="tech_title">Tech_Stack : </h3>
+            <img className="tech_stack_img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=""/>
+            <img className="tech_stack_img" src="https://w7.pngwing.com/pngs/398/821/png-transparent-firebase-google-google-i-o-icon-thumbnail.png" alt=""/>
+          </div>
+    
        </div>
        </div>
 
@@ -68,6 +88,12 @@ function Project() {
           <a href="https://sensational-cocada-2bad4c.netlify.app/" target="_blank" className="card_btn" ><OpenInNewIcon/></a>
           <a href="https://github.com/NRUBYNATHAN/tik-tok-clone"  target="_blank" className="card_btn1" ><GitHubIcon /></a>
           </div>
+          <div className="tech_stack">
+          <h3 className="tech_title">Tech_Stack : </h3>
+            <img className="tech_stack_img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=""/>
+            
+          </div>
+  
        </div>
        </div>
        </motion.div>
