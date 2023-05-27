@@ -60,6 +60,24 @@ function Project() {
      
        </div>
        </div>
+       <div className="card">
+          <img className="card_imagess" src="https://dr5dymrsxhdzh.cloudfront.net/blog/images/a07329081/2019/07/debt-collection-and-tax-season-concept-with-deadline-calendar-remind-picture-id899321150.jpg" alt=""/>
+       <div className="card_body">
+          <h1 className="card_title">Money_Management</h1>
+          <p className="card_info">I completed this project as part of my money management.This app makes it easy to customise how income and expenses are calculated. I used ReactJS to complete the frontend for this application. and Nodejs' For backend.</p>
+          <div className="btn">
+          <a href="https://money-frond.netlify.app/" target="_blank" className="card_btn" ><OpenInNewIcon/></a>
+          <a href="https://github.com/NRUBYNATHAN/money-manage"  target="_blank" className="card_btn1" ><GitHubIcon /></a>
+          <a href="https://github.com/NRUBYNATHAN/money-manage-back"  target="_blank" className="card_btn1" ><GitHubIcon /></a>
+          </div>
+          <div className="tech_stack">
+          <h3 className="tech_title">Tech_Stack : </h3>
+            <img className="tech_stack_img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=""/>
+           
+          </div>
+    
+       </div>
+       </div>
 
        <div className="card">
           <img className="card_imagess" src="https://m.media-amazon.com/images/G/31/social_share/amazon_logo._CB633266945_.png" alt=""/>
