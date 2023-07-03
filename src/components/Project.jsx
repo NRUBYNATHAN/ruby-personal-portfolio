@@ -61,6 +61,24 @@ function Project() {
        </div>
        </div>
        <div className="card">
+          <img className="card_imagess" src="https://hackernoon.com/hn-images/1*mLE5ZxhtATxrwh20SL2Tlg.png" alt=""/>
+       <div className="card_body">
+          <h1 className="card_title">Chating -App</h1>
+          <p className="card_info">The project is a real-time chatting application developed using Socket.io, React.js, and Node.js. It allows users to communicate in real-time by sending and receiving messages, with a user-friendly interface built using React.js.</p>
+          <div className="btn">
+          <a href="https://marvelous-macaron-77c3d7.netlify.app/" target="_blank" className="card_btn" ><OpenInNewIcon/></a>
+          <a href="https://github.com/NRUBYNATHAN/chatting-app-client"  target="_blank" className="card_btn1" ><GitHubIcon /></a>
+          </div>
+          <div className="tech_stack">
+          <h3 className="tech_title">Tech_Stack : </h3>
+            <img className="tech_stack_img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=""/>
+            <img className="tech_stack_img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt=""/>
+            <img className="tech_stack_img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt=""/>
+          </div>
+  
+       </div>
+       </div>
+       <div className="card">
           <img className="card_imagess" src="https://dr5dymrsxhdzh.cloudfront.net/blog/images/a07329081/2019/07/debt-collection-and-tax-season-concept-with-deadline-calendar-remind-picture-id899321150.jpg" alt=""/>
        <div className="card_body">
           <h1 className="card_title">Money_Management</h1>
@@ -97,10 +115,11 @@ function Project() {
        </div>
        </div>
 
+
        <div className="card">
           <img className="card_imagess" src="https://www.retailtouchpoints.com/wp-content/uploads/2022/11/TikTok.png" alt=""/>
        <div className="card_body">
-          <h1 className="card_title">Tok-Tok</h1>
+          <h1 className="card_title">Tik-Tok</h1>
           <p className="card_info">This tiktok software is designed to play videos quietly. and I made this app just for the front end. This app does not include music. Try it out and see</p>
           <div className="btn">
           <a href="https://sensational-cocada-2bad4c.netlify.app/" target="_blank" className="card_btn" ><OpenInNewIcon/></a>
