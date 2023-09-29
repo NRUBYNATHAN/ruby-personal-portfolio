@@ -58,3 +58,56 @@
   border-radius: 100%;
  
 }
+
+@media only screen and (max-width: 600px) {
+  .nav{
+    margin-top: 0;
+    width: 100%; 
+    margin-left: auto;
+    margin-right: auto; 
+  }
+  .nav_container{
+    overflow: hidden; 
+    position: fixed; 
+    bottom: 3rem; 
+    z-index: 50; 
+    width:100%; 
+    
+  
+  }
+  
+  .link{
+    background-color: black;
+    opacity: 20%;
+    display: flex; 
+    padding-left: 1.25rem;
+    padding-right: 1.25rem; 
+    margin-left: auto;
+    margin-right: auto; 
+    font-size: 1rem;
+    line-height: 1rem; 
+    justify-content: space-between; 
+    gap:5px;
+    width: 100%; 
+    border-radius: 9999px; 
+    background-blend-mode:40px; 
+    height: 60px;
+  
+    color: #ffffff; 
+    opacity: 60%;
+    width: 360px;
+
+   
+  }
+  .links{
+    cursor:pointer;
+    width: 40px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+  
+  }
+
+}
