@@ -69,7 +69,7 @@ function Banner() {
                     <button className="headers_btn">Contact me</button>
                     </Link>
            
-                <a  className="banner_btn" href="https://drive.google.com/file/d/112_djpiKcYxQ4yZei5nXSZtmoVJw3eVh/view?usp=sharing" target="_blank" >My Resume </a>
+                <a  className="banner_btn" href="https://drive.google.com/file/d/1FIJ06y2xpk55DhNkphv16MzE5jAfD9CN/view?usp=sharing" target="_blank" >My Resume </a>
                </motion.div>
                 <motion.div
                    variants={fadeIn("up",0.7)}
