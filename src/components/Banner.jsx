@@ -95,7 +95,7 @@ function Banner() {
               </a>
               <a
                 className="media"
-                href="https://www.linkedin.com/in/rubynathan-n-164215259/"
+                href="https://www.linkedin.com/in/rubynathan-n/"
                 target="_blank"
               >
                 <LinkedInIcon />
