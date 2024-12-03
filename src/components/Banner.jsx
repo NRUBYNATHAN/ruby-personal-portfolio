@@ -67,7 +67,7 @@ function Banner() {
 
               <a
                 className="banner_btn"
-                href="https://drive.google.com/file/d/1w9sNZH6EmEu0iaVtEpSj3Ug11xfhNaXS/view?usp=sharing"
+                href="https://drive.google.com/file/d/1m1uhfTJL8YFQbMytuqiBTVQatA4mr3Io/view?usp=sharing"
                 target="_blank"
               >
                 My Resume{" "}
