@@ -41,7 +41,7 @@ function Banner() {
             >
               <span className="banner_span">I am a </span>
               <TypeAnimation
-                sequence={["Full Stack Developer", 2000, "Creator", 2000]}
+                sequence={["Full Stack Developer", 2000, "Front End Developer", 2000]}
                 speed={50}
                 className="banner_textanime"
                 wrapper="span"
@@ -55,10 +55,7 @@ function Banner() {
               viewport={{ once: false, amount: 0.7 }}
               className="banner_summary"
             >
-              I enjoy solving complex problems. Frequently praised as
-              detail-oriented by my peers, I can be relied upon to help your
-              company achieve its goals by providing sustainable and scalable
-              solutions.
+              I am a frontend developer with one year of experience, skilled in creating scalable and efficient solutions.I am committed to delivering high-quality work that supports your company’s goals.
             </motion.p>
             <motion.div
               variants={fadeIn("up", 0.6)}
@@ -67,13 +64,10 @@ function Banner() {
               viewport={{ once: false, amount: 0.7 }}
               className="banner_center"
             >
-              <Link activeClass="active" smooth={true} spy={true} to="contact">
-                <button className="headers_btn">Contact me</button>
-              </Link>
 
               <a
                 className="banner_btn"
-                href="https://drive.google.com/file/d/1Ev4l2AWZTmRaRSvjNjvn3f5U4zgLm2Le/view?usp=sharing"
+                href="https://drive.google.com/file/d/1w9sNZH6EmEu0iaVtEpSj3Ug11xfhNaXS/view?usp=sharing"
                 target="_blank"
               >
                 My Resume{" "}
@@ -99,13 +93,6 @@ function Banner() {
                 target="_blank"
               >
                 <LinkedInIcon />
-              </a>
-              <a
-                className="media"
-                href="https://twitter.com/RubynathanN"
-                target="_blank"
-              >
-                <TwitterIcon />
               </a>
               <a
                 className="media"
